@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">laba6</string>
+    <string name="title">Android Read/Write File</string>
+    <string name="surname">Surname</string>
+    <string name="group">Group</string>
+    <string name="faculty">Faculty</string>
+    <string name="f_write">File to WRITE</string>
+    <string name="f_read">File to READ</string>
+    <string name="write">WRITE</string>
+    <string name="read">READ</string>
+
+</resources>
